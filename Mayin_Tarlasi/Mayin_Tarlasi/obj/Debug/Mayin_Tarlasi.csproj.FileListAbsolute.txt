@@ -1,0 +1,10 @@
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\Mayin_Tarlasi\Mayin_Tarlasi\bin\Debug\Mayin_Tarlasi.exe.config
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\Mayin_Tarlasi\Mayin_Tarlasi\bin\Debug\Mayin_Tarlasi.exe
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\Mayin_Tarlasi\Mayin_Tarlasi\bin\Debug\Mayin_Tarlasi.pdb
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.csprojAssemblyReference.cache
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.Form1.resources
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.Properties.Resources.resources
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.csproj.GenerateResource.cache
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.csproj.CoreCompileInputs.cache
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.exe
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.pdb

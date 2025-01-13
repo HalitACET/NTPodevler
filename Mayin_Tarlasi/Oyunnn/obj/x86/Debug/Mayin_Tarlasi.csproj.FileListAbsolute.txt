@@ -1,0 +1,7 @@
+C:\Users\actha\OneDrive\Masaüstü\Mayin_Tarlasi\Mayin_Tarlasi\obj\x86\Debug\Mayin_Tarlasi.csprojAssemblyReference.cache
+C:\Users\actha\OneDrive\Masaüstü\Mayin_Tarlasi\Mayin_Tarlasi\obj\x86\Debug\Oyunnn.Form1.resources
+C:\Users\actha\OneDrive\Masaüstü\Mayin_Tarlasi\Mayin_Tarlasi\obj\x86\Debug\Oyunnn.Properties.Resources.resources
+C:\Users\actha\OneDrive\Masaüstü\Mayin_Tarlasi\Mayin_Tarlasi\obj\x86\Debug\Mayin_Tarlasi.csproj.GenerateResource.cache
+C:\Users\actha\OneDrive\Masaüstü\Mayin_Tarlasi\Mayin_Tarlasi\obj\x86\Debug\Mayin_Tarlasi.csproj.CoreCompileInputs.cache
+C:\Users\actha\OneDrive\Masaüstü\Mayin_Tarlasi\Mayin_Tarlasi\obj\x86\Debug\Oyunnn.exe
+C:\Users\actha\OneDrive\Masaüstü\Mayin_Tarlasi\Mayin_Tarlasi\obj\x86\Debug\Oyunnn.pdb
