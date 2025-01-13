@@ -1,0 +1,19 @@
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\tictactoe_\tictactoe_\obj\Debug\tictactoe.Form1.resources
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\tictactoe_\tictactoe_\obj\Debug\tictactoe_.Properties.Resources.resources
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\tictactoe_\tictactoe_\obj\Debug\tictactoe_.csproj.GenerateResource.cache
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\tictactoe_\tictactoe_\obj\Debug\tictactoe_.csproj.CoreCompileInputs.cache
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\tictactoe_\tictactoe_\bin\Debug\tictactoe_.exe.config
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\tictactoe_\tictactoe_\bin\Debug\tictactoe_.exe
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\tictactoe_\tictactoe_\bin\Debug\tictactoe_.pdb
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\tictactoe_\tictactoe_\obj\Debug\tictactoe_.exe
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\tictactoe_\tictactoe_\obj\Debug\tictactoe_.pdb
+C:\Users\actha\OneDrive\Masaüstü\tictactoe_\tictactoe_\bin\Debug\tictactoe_.exe.config
+C:\Users\actha\OneDrive\Masaüstü\tictactoe_\tictactoe_\bin\Debug\tictactoe_.exe
+C:\Users\actha\OneDrive\Masaüstü\tictactoe_\tictactoe_\bin\Debug\tictactoe_.pdb
+C:\Users\actha\OneDrive\Masaüstü\tictactoe_\tictactoe_\obj\Debug\tictactoe_.csprojAssemblyReference.cache
+C:\Users\actha\OneDrive\Masaüstü\tictactoe_\tictactoe_\obj\Debug\tictactoe.Form1.resources
+C:\Users\actha\OneDrive\Masaüstü\tictactoe_\tictactoe_\obj\Debug\tictactoe_.Properties.Resources.resources
+C:\Users\actha\OneDrive\Masaüstü\tictactoe_\tictactoe_\obj\Debug\tictactoe_.csproj.GenerateResource.cache
+C:\Users\actha\OneDrive\Masaüstü\tictactoe_\tictactoe_\obj\Debug\tictactoe_.csproj.CoreCompileInputs.cache
+C:\Users\actha\OneDrive\Masaüstü\tictactoe_\tictactoe_\obj\Debug\tictactoe_.exe
+C:\Users\actha\OneDrive\Masaüstü\tictactoe_\tictactoe_\obj\Debug\tictactoe_.pdb
