@@ -1,0 +1,10 @@
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\flappyBird\flappyBird\bin\Debug\flappyBird.exe.config
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\flappyBird\flappyBird\bin\Debug\flappyBird.exe
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\flappyBird\flappyBird\bin\Debug\flappyBird.pdb
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\flappyBird\flappyBird\obj\Debug\flappyBird.csprojAssemblyReference.cache
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\flappyBird\flappyBird\obj\Debug\flappyBird.Form1.resources
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\flappyBird\flappyBird\obj\Debug\flappyBird.Properties.Resources.resources
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\flappyBird\flappyBird\obj\Debug\flappyBird.csproj.GenerateResource.cache
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\flappyBird\flappyBird\obj\Debug\flappyBird.csproj.CoreCompileInputs.cache
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\flappyBird\flappyBird\obj\Debug\flappyBird.exe
+C:\Users\actha\OneDrive\Masaüstü\C# Dersleri\flappyBird\flappyBird\obj\Debug\flappyBird.pdb
